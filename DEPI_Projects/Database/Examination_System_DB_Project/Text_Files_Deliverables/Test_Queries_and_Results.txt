@@ -1,0 +1,41 @@
+Test Queries and Results - Examination_System_DB
+
+1. SELECT * FROM Students;
+   - Result: All student records displayed.
+   - Comment: Works as expected.
+
+2. SELECT * FROM Students WHERE ID = 3;
+   - Result: Shows student with ID=3.
+   - Comment: Works correctly.
+
+3. SELECT * FROM Students WHERE Training_Manager_ID = 5;
+   - Result: All students with TM ID=5 listed.
+   - Comment: Verified.
+
+4. UPDATE Students SET Phone = '01009998887' WHERE ID = 2;
+   - Result: Phone number updated for student ID=2.
+   - Comment: Works.
+
+5. DELETE FROM Students WHERE ID = 5;
+   - Result: Student with ID=5 deleted.
+   - Comment: Works.
+
+6. SELECT * FROM View_Student_Manager;
+   - Result: Shows student names with their manager names.
+   - Comment: View returns correct join data.
+
+7. WITH Students_Age AS (...) SELECT * FROM Students_Age WHERE Age > 22;
+   - Result: Lists students older than 22.
+   - Comment: Works fine.
+
+8. EXEC GetStudentByID @StudentID = 3;
+   - Result: Returns details of student ID=3.
+   - Comment: Works.
+
+9. SELECT ID, First_Name, dbo.GetStudentAge(BOD) AS Age FROM Students;
+   - Result: Calculates and shows each student's age.
+   - Comment: Works fine.
+
+10. INSERT INTO Students (...) VALUES (...);
+    - Result: Prints "New student has been added!" from trigger.
+    - Comment: Trigger works as expected.

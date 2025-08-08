@@ -1,0 +1,33 @@
+Database Objects - Examination_System_DB
+
+1. Views:
+   - View_Student_Manager: Displays student ID, full name, email, and their training manager's full name.
+
+2. Stored Procedures:
+   - GetStudentByID(@StudentID INT): Retrieves all details of a student by their ID.
+
+3. Functions:
+   - GetStudentAge(@BOD DATE): Returns the age of a student calculated from their birth date.
+
+4. Triggers:
+   - trg_AfterInsert_Student: Executes after a student is inserted and prints a confirmation message.
+
+5. Tables (Main Entities):
+   - Students: Stores personal and academic details of students.
+   - Training_Manager: Stores details of training managers.
+   - User_Acount: Stores usernames, hashed passwords, and roles.
+   - Instructor: Stores details of instructors.
+   - Track: Stores training track information.
+   - Branch: Stores training branch information.
+   - Intake: Stores intake details (name, year, manager).
+   - Exam: Stores exam details including type, year, timings, and course ID.
+   - Students_Exams: Links students to their exams and stores grades.
+   - Course: Stores course details including description, min/max degree, and instructor ID.
+   - Students_Courses: Links students to their courses.
+   - Questions: Stores questions with type, text, correct answer, and degree.
+   - Exam_Questions: Links questions to specific exams.
+   - Answer_Options: Stores possible answer options for questions.
+   - Questions_Options: Links questions to their answer options.
+   - Student_Answers: Stores answers given by students.
+
+Foreign keys exist to maintain referential integrity between related entities.
