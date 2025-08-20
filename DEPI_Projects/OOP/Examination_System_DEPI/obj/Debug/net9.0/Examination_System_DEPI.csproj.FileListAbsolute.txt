@@ -1,0 +1,14 @@
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\bin\Debug\net9.0\Examination_System_DEPI.exe
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\bin\Debug\net9.0\Examination_System_DEPI.deps.json
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\bin\Debug\net9.0\Examination_System_DEPI.runtimeconfig.json
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\bin\Debug\net9.0\Examination_System_DEPI.dll
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\bin\Debug\net9.0\Examination_System_DEPI.pdb
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\obj\Debug\net9.0\Examination_System_DEPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\obj\Debug\net9.0\Examination_System_DEPI.AssemblyInfoInputs.cache
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\obj\Debug\net9.0\Examination_System_DEPI.AssemblyInfo.cs
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\obj\Debug\net9.0\Examination_System_DEPI.csproj.CoreCompileInputs.cache
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\obj\Debug\net9.0\Examination_System_DEPI.dll
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\obj\Debug\net9.0\refint\Examination_System_DEPI.dll
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\obj\Debug\net9.0\Examination_System_DEPI.pdb
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\obj\Debug\net9.0\Examination_System_DEPI.genruntimeconfig.cache
+C:\Users\YN\OneDrive - Faculty of Computers & Artificial Intelligence\Desktop\DEPI\Technical\DEPI_Projects\OOP\Examination_System_DEPI\obj\Debug\net9.0\ref\Examination_System_DEPI.dll
